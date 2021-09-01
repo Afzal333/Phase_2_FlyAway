@@ -1,7 +1,7 @@
 <%-- 
     Document   : register
-    Created on : Sep 9, 2020, 11:50:01 AM
-    Author     : Afzal
+   Created on : Sep 02, 2021, 9:13:12 PM
+    Author     : AFZAL
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
